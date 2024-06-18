@@ -7,5 +7,6 @@ Note: These scripts will create many files, in this directory.
 
 ## Credits
 
-The file textprogressbar.m came from ...
-The file matlabfrag.m came from ...
+The file textprogressbar.m came from https://www.mathworks.com/matlabcentral/fileexchange/28067-text-progress-bar.
+
+The file matlabfrag.m came from http://www.mathworks.com/matlabcentral/fileexchange/21286.
