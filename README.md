@@ -5,6 +5,9 @@ Run sampleScript.m to perform calculations.
 
 Note: These scripts will create many files, in this directory. 
 
+
+The files in ImageGen can be used to generate helical images, based on the geometry derived in the paper. To be run, they must be moved into this folder (or saveFig.m must be copied into that folder).
+
 ## Credits
 
 The file textprogressbar.m came from https://www.mathworks.com/matlabcentral/fileexchange/28067-text-progress-bar.
